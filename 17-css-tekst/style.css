@@ -1,0 +1,32 @@
+body {
+    background-color: grey;
+}
+
+#rectangle {
+    width: 1200px;
+    height: 400px;
+    background: white;
+    margin: 15%
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+    padding: 20px;
+}
+
+p {
+
+    width: 1200px;
+    height: 300px;
+    display: table-cell;
+    text-align: center;
+}
+
+span {
+    color: blue;
+}
+
+span {
+    color: red;
+}

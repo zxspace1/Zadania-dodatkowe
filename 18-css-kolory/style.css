@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+}
+
+#rectangle {
+    width: 1220px;
+    height: 600px;
+    background: white;
+    margin: 15%;
+    position: absolute;
+
+}
+
+h1 {
+    color: red;
+    padding: 10px;
+    font-size: 3em;
+}
+
+.brown {
+    color: brown;
+    width: 1200px;
+    height: 100px;
+    padding: 25px;
+    font-size: 2em;
+}
+
+.blue {
+    color: blue;
+    width: 1200px;
+    height: 100px;
+    padding: 25px;
+    font-size: 2em;
+
+}
